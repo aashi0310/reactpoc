@@ -1,0 +1,33 @@
+{
+  "name": "reactpoc",
+  "version": "1.0.0",
+  "description": "react learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aashi0310/reactpoc.git"
+  },
+  "author": "Akanksha Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aashi0310/reactpoc/issues"
+  },
+  "homepage": "https://github.com/aashi0310/reactpoc#readme",
+  "dependencies": {
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.2.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-middleware": "^2.0.4",
+    "webpack-dev-server": "^2.10.0",
+    "webpack-hot-middleware": "^2.21.0"
+  }
+}
