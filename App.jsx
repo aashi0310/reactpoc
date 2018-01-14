@@ -25,7 +25,7 @@ App.propTypes = {
    propString: PropTypes.string,
 };
 App.defaultProps = {
-   name: 'aashi',
+   name: 'Tutorialspoint.com',
    propArray: [1, 2, 3, 4, 5],
    propBool: true,
    propFunc: function(e) {
